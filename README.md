@@ -1,4 +1,4 @@
-### **README.md: Catch the Turtle Oyunu**
+### **Catch the Turtle Oyunu**
 
 ```markdown
 # Catch the Turtle 🐢
